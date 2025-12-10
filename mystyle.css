@@ -1,0 +1,28 @@
+css
+
+body {
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    color: blue;
+    font-size: 18px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+ul {
+    color: green;
+}
+
+form {
+    margin-top: 20px;
+}
+
+input {
+    padding: 4px;
+}
